@@ -3,32 +3,32 @@ import Card from '../component/card';
 
 const moviesData = [
   {
-    title: 'The Shawshank Redemption',
-    subtitle: '1994 ‧ Drama/Crime ‧ 2h 22m',
-    description: 'Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.',
-    image: 'https://upload.wikimedia.org/wikipedia/en/8/81/ShawshankRedemptionMoviePoster.jpg',
-    rating: 9.3
+    title: 'Taxi Driver',
+    subtitle: '1976 ‧ Crime/Noir ‧ 1h 53m',
+    description: 'Taxi Driver is a 1976 American neo-noir psychological thriller film directed by Martin Scorsese, written by Paul Schrader, and starring Robert De Niro...',
+    image: 'https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3836_p_v8_aq.jpg',
+    rating: "8.2/10 by IMDB"
   },
   {
-    title: 'The Godfather',
-    subtitle: '1972 ‧ Drama/Crime ‧ 2h 58m',
-    description: 'The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.',
-    image: 'https://upload.wikimedia.org/wikipedia/en/1/1c/Godfather_ver1.jpg',
-    rating: 9.2
+    title: 'Pulp Fiction',
+    subtitle: ' 1994 ‧ Crime/Thriller ‧ 2h 34m',
+    description: 'The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.',
+    image: 'https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg',
+    rating: "8.9/10 by IMDB"
   },
   {
-    title: 'Breaking Bad',
-    subtitle: 'TV Series ‧ 2008–2013 ‧ 45min',
-    description: "A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student in order to secure his family's future.",
-    image: 'https://www.tallengestore.com/cdn/shop/products/BreakingBad-BryanCranston-Heisenberg-TVShowPoster9.jpg?v=1683604400',
-    rating: 9.5
+    title: 'Taste of Cherry',
+    subtitle: '1997 ‧ Documentary/Drama ‧ 1h 35m',
+    description: "Taste of Cherry is a 1997 Iranian minimalist drama film written, produced, edited and directed by Abbas Kiarostami",
+    image: 'https://humanities.byu.edu/wp-content/uploads/Taste-of-Cherry.jpg',
+    rating: "7.7/10 by IMDB"
   },
   {
-    title: 'The Wire',
-    subtitle: '2002-2008 ‧ Drama/Crime/Thriller ‧ 59min',
-    description: "The Baltimore drug scene, as seen through the eyes of drug dealers and law enforcement.",
-    image: 'https://m.media-amazon.com/images/I/61cJb+LQ47L._AC_UF894,1000_QL80_.jpg',
-    rating: 9.3
+    title: 'Joyland',
+    subtitle: '2022 ‧ Romance/Drama ‧ 2h 7m',
+    description: "It's a film about the healing powers of female friendship and solidarity. It's a film about the costs of ignoring our own dreams to conform to society around us ...",
+    image: 'https://m.media-amazon.com/images/S/pv-target-images/a23b94d70568004979e9cfeb9bfbb0880c3612deac300947409d3236cc686288.jpg',
+    rating: "7.6/10 by IMDB"
   },
 ];
 
