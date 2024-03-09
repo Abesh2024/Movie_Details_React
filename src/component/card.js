@@ -1,10 +1,11 @@
 import React from "react";
 import "./card.css";
+// import './movies.js'
 
 function Card({ title, subtitle, description, image, rating }) {
   return (
-    <div className="movie-card">
-      <div className="left">
+    <div className="cards">
+      <div className="for-text">
         <img src={image} alt={title} />
         <div className="movie-details">
           <h2>{title}</h2>

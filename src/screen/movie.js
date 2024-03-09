@@ -1,7 +1,8 @@
 import React from 'react';
 import Card from '../component/card';
+import './movies.css'
 
-const moviesData = [
+const dataArray = [
   {
     title: 'Taxi Driver',
     subtitle: '1976 ‧ Crime/Noir ‧ 1h 53m',
@@ -35,9 +36,9 @@ const moviesData = [
 function MovieScreen() {
   return (
     <div className="Movies">
-      <h1>Movie List</h1>
+      <h1>Must Watch Movies</h1>
       <div className="movie-list">
-        {moviesData.map((movie, index) => (
+        {dataArray.map((movie, index) => (
           <Card key={index} {...movie} />
         ))}
       </div>

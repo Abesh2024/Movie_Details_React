@@ -1,0 +1,12 @@
+h1 {
+    font-size: 3rem;
+    text-shadow: 5px 5px 5px black;
+    color: rgb(238, 238, 237);
+    font-family:cursive;
+}
+
+h2 {
+    font-size: 2rem;
+    color: rgb(249, 142, 55);
+    font-family: fantasy;
+}
